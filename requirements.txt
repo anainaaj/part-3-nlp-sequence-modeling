@@ -1,24 +1,24 @@
-# ─────────────────────────────────────────────────────────────
-# Part 3 
-# Requirements File
-#
-# HOW TO INSTALL:
-#   pip install -r requirements.txt
-# ─────────────────────────────────────────────────────────────
+ ─────────────────────────────────────────────────────────────
+ Part 3 
+ Requirements File
 
-# ── Core Data Science ─────────────────────────────────────────
+ HOW TO INSTALL:
+   pip install -r requirements.txt
+─────────────────────────────────────────────────────────────
+
+── Core Data Science ─────────────────────────────────────────
 pandas>=3.0.1      # Load and manipulate CSV data (DataFrames)
 numpy>=2.4.2          # Numerical operations and array handling
 
-# ── Machine Learning ──────────────────────────────────────────
+── Machine Learning ──────────────────────────────────────────
 scikit-learn>=1.8.0   # CountVectorizer, TfidfVectorizer, LogisticRegression,
                        # MultinomialNB, train_test_split, metrics
 
-# ── Visualization ─────────────────────────────────────────────
+── Visualization ─────────────────────────────────────────────
 matplotlib>=3.10.8      # Plotting charts (confusion matrix, distributions)
 
 
-# ── Deep Learning (for Task 5 – LSTM model) ──────────────────
+── Deep Learning (for Task 5 – LSTM model) ──────────────────
 tensorflow>=2.21.0  # Keras layers: Embedding, LSTM, GRU, Dense, Dropout
 
 
