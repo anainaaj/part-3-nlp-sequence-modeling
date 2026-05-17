@@ -19,6 +19,6 @@ matplotlib>=3.10.8      # Plotting charts (confusion matrix, distributions)
 
 
 # ── Deep Learning (for Task 5 – LSTM model) ──────────────────
-# tensorflow>=2.21.0  # Keras layers: Embedding, LSTM, GRU, Dense, Dropout
+tensorflow>=2.21.0  # Keras layers: Embedding, LSTM, GRU, Dense, Dropout
 
 
