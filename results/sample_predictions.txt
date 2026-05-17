@@ -1,0 +1,127 @@
+SAMPLE PREDICTIONS – Part 3 NLP Pipeline
+============================================================
+
+=== Naive Bayes (BoW) ===
+✓ Message   : like new payment easy use
+  True      : positive
+  Predicted : positive
+
+✓ Message   : great service clear communication support team
+  True      : positive
+  Predicted : positive
+
+✓ Message   : refund still pending experience frustrating
+  True      : negative
+  Predicted : negative
+
+✓ Message   : app crashes whenever try use analytics
+  True      : negative
+  Predicted : negative
+
+✓ Message   : response team helpful professional
+  True      : positive
+  Predicted : positive
+
+✓ Message   : someone explain difference between plans
+  True      : neutral
+  Predicted : neutral
+
+✓ Message   : like new video call easy use
+  True      : positive
+  Predicted : positive
+
+✓ Message   : like new report download easy use
+  True      : positive
+  Predicted : positive
+
+✓ Message   : someone explain difference between plans
+  True      : neutral
+  Predicted : neutral
+
+✓ Message   : want understand warranty terms product
+  True      : neutral
+  Predicted : neutral
+
+✓ Message   : refund process fast convenient appreciate quick response
+  True      : positive
+  Predicted : positive
+
+✓ Message   : satisfied plan recommend others
+  True      : positive
+  Predicted : positive
+
+✓ Message   : information payment process respond soon possible
+  True      : neutral
+  Predicted : neutral
+
+✓ Message   : confirm whether assigned
+  True      : neutral
+  Predicted : neutral
+
+✓ Message   : billing incorrect charged twice month
+  True      : negative
+  Predicted : negative
+
+
+=== Logistic Regression (TF-IDF) ===
+✓ Message   : like new payment easy use
+  True      : positive
+  Predicted : positive
+
+✓ Message   : great service clear communication support team
+  True      : positive
+  Predicted : positive
+
+✓ Message   : refund still pending experience frustrating
+  True      : negative
+  Predicted : negative
+
+✓ Message   : app crashes whenever try use analytics
+  True      : negative
+  Predicted : negative
+
+✓ Message   : response team helpful professional
+  True      : positive
+  Predicted : positive
+
+✓ Message   : someone explain difference between plans
+  True      : neutral
+  Predicted : neutral
+
+✓ Message   : like new video call easy use
+  True      : positive
+  Predicted : positive
+
+✓ Message   : like new report download easy use
+  True      : positive
+  Predicted : positive
+
+✓ Message   : someone explain difference between plans
+  True      : neutral
+  Predicted : neutral
+
+✓ Message   : want understand warranty terms product
+  True      : neutral
+  Predicted : neutral
+
+✓ Message   : refund process fast convenient appreciate quick response
+  True      : positive
+  Predicted : positive
+
+✓ Message   : satisfied plan recommend others
+  True      : positive
+  Predicted : positive
+
+✓ Message   : information payment process respond soon possible
+  True      : neutral
+  Predicted : neutral
+
+✓ Message   : confirm whether assigned
+  True      : neutral
+  Predicted : neutral
+
+✓ Message   : billing incorrect charged twice month
+  True      : negative
+  Predicted : negative
+
+

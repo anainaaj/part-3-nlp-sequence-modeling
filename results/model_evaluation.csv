@@ -1,0 +1,301 @@
+message,true_label,pred_naive_bayes,pred_logistic_reg,nb_correct,lr_correct
+like new payment easy use,positive,positive,positive,True,True
+great service clear communication support team,positive,positive,positive,True,True
+refund still pending experience frustrating,negative,negative,negative,True,True
+app crashes whenever try use analytics,negative,negative,negative,True,True
+response team helpful professional,positive,positive,positive,True,True
+someone explain difference between plans,neutral,neutral,neutral,True,True
+like new video call easy use,positive,positive,positive,True,True
+like new report download easy use,positive,positive,positive,True,True
+someone explain difference between plans,neutral,neutral,neutral,True,True
+want understand warranty terms product,neutral,neutral,neutral,True,True
+refund process fast convenient appreciate quick response,positive,positive,positive,True,True
+satisfied plan recommend others,positive,positive,positive,True,True
+information payment process respond soon possible,neutral,neutral,neutral,True,True
+confirm whether assigned,neutral,neutral,neutral,True,True
+billing incorrect charged twice month,negative,negative,negative,True,True
+satisfied plan recommend others,positive,positive,positive,True,True
+satisfied plan recommend others,positive,positive,positive,True,True
+checking there any scheduled maintenance today,neutral,neutral,neutral,True,True
+like know more available plans,neutral,neutral,neutral,True,True
+want cancel service quality poor unreliable respond soon possible,negative,negative,negative,True,True
+refund still pending experience frustrating,negative,negative,negative,True,True
+delivery smooth product quality excellent,positive,positive,positive,True,True
+help finding invoice last order,neutral,neutral,neutral,True,True
+want understand warranty terms product,neutral,neutral,neutral,True,True
+app crashes whenever try use notifications respond soon possible,negative,negative,negative,True,True
+dashboard keeps failing support not resolved issue,negative,negative,negative,True,True
+help finding invoice last order,neutral,neutral,neutral,True,True
+raised multiple tickets nobody fixed problem,negative,negative,negative,True,True
+insurance policy working well happy service,positive,positive,positive,True,True
+very unhappy router not worked since morning respond soon possible,negative,negative,negative,True,True
+delivery smooth product quality excellent,positive,positive,positive,True,True
+raised multiple tickets nobody fixed problem,negative,negative,negative,True,True
+confirm whether assigned respond soon possible,neutral,neutral,neutral,True,True
+confirm whether assigned,neutral,neutral,neutral,True,True
+tell how update account details,neutral,neutral,neutral,True,True
+installation completed time everything works perfectly,positive,positive,positive,True,True
+refund process fast convenient,positive,positive,positive,True,True
+installation completed time everything works perfectly,positive,positive,positive,True,True
+response team helpful professional,positive,positive,positive,True,True
+app experience smooth reliable,positive,positive,positive,True,True
+app crashes whenever try use profile update,negative,negative,negative,True,True
+tell how update account details respond soon possible,neutral,neutral,neutral,True,True
+app crashes whenever try use payment,negative,negative,negative,True,True
+billing incorrect charged twice month,negative,negative,negative,True,True
+provide steps activate profile update respond soon possible,neutral,neutral,neutral,True,True
+satisfied plan recommend others,positive,positive,positive,True,True
+help finding invoice last order,neutral,neutral,neutral,True,True
+mobile app keeps failing support not resolved issue,negative,negative,negative,True,True
+refund process fast convenient appreciate quick response,positive,positive,positive,True,True
+share status account request,neutral,neutral,neutral,True,True
+confirm whether assigned,neutral,neutral,neutral,True,True
+internet speed slow customer care not helping,negative,negative,negative,True,True
+confirm whether assigned,neutral,neutral,neutral,True,True
+tell how update account details,neutral,neutral,neutral,True,True
+provide steps activate profile update,neutral,neutral,neutral,True,True
+dashboard working well happy service,positive,positive,positive,True,True
+response team helpful professional,positive,positive,positive,True,True
+someone explain difference between plans,neutral,neutral,neutral,True,True
+very unhappy router not worked since yesterday respond soon possible,negative,negative,negative,True,True
+delivery late package arrived damaged,negative,negative,negative,True,True
+app experience smooth reliable,positive,positive,positive,True,True
+installation completed time everything works perfectly,positive,positive,positive,True,True
+internet speed slow customer care not helping,negative,negative,negative,True,True
+great service clear communication support team,positive,positive,positive,True,True
+support team resolved issue quickly thank appreciate quick response,positive,positive,positive,True,True
+billing incorrect charged twice month,negative,negative,negative,True,True
+dashboard working well happy service,positive,positive,positive,True,True
+great service clear communication support team,positive,positive,positive,True,True
+app experience smooth reliable,positive,positive,positive,True,True
+app experience smooth reliable appreciate quick response,positive,positive,positive,True,True
+router keeps failing support not resolved issue,negative,negative,negative,True,True
+product quality bad regret purchasing,negative,negative,negative,True,True
+app crashes whenever try use tracking respond soon possible,negative,negative,negative,True,True
+share status subscription request,neutral,neutral,neutral,True,True
+someone explain difference between plans,neutral,neutral,neutral,True,True
+response team helpful professional,positive,positive,positive,True,True
+tell how update account details,neutral,neutral,neutral,True,True
+response team helpful professional appreciate quick response,positive,positive,positive,True,True
+refund still pending experience frustrating,negative,negative,negative,True,True
+refund still pending experience frustrating,negative,negative,negative,True,True
+tell how update account details,neutral,neutral,neutral,True,True
+internet speed slow customer care not helping,negative,negative,negative,True,True
+internet speed slow customer care not helping,negative,negative,negative,True,True
+want understand warranty terms product,neutral,neutral,neutral,True,True
+raised multiple tickets nobody fixed problem respond soon possible,negative,negative,negative,True,True
+support team resolved issue quickly thank,positive,positive,positive,True,True
+raised multiple tickets nobody fixed problem,negative,negative,negative,True,True
+like know more available plans,neutral,neutral,neutral,True,True
+want understand warranty terms product,neutral,neutral,neutral,True,True
+information payment process,neutral,neutral,neutral,True,True
+someone explain difference between plans,neutral,neutral,neutral,True,True
+help finding invoice last order respond soon possible,neutral,neutral,neutral,True,True
+checking there any scheduled maintenance today,neutral,neutral,neutral,True,True
+raised multiple tickets nobody fixed problem respond soon possible,negative,negative,negative,True,True
+confirm whether assigned,neutral,neutral,neutral,True,True
+very unhappy mobile app not worked since three days ago respond soon possible,negative,negative,negative,True,True
+provide steps activate payment,neutral,neutral,neutral,True,True
+mobile app keeps failing support not resolved issue respond soon possible,negative,negative,negative,True,True
+help finding invoice last order,neutral,neutral,neutral,True,True
+refund still pending experience frustrating,negative,negative,negative,True,True
+like know more available plans,neutral,neutral,neutral,True,True
+subscription keeps failing support not resolved issue respond soon possible,negative,negative,negative,True,True
+refund still pending experience frustrating,negative,negative,negative,True,True
+delivery late package arrived damaged,negative,negative,negative,True,True
+provide steps activate analytics,neutral,neutral,neutral,True,True
+like know more available plans,neutral,neutral,neutral,True,True
+delivery late package arrived damaged,negative,negative,negative,True,True
+mobile app working well happy service,positive,positive,positive,True,True
+help finding invoice last order,neutral,neutral,neutral,True,True
+refund still pending experience frustrating,negative,negative,negative,True,True
+delivery smooth product quality excellent appreciate quick response,positive,positive,positive,True,True
+refund still pending experience frustrating,negative,negative,negative,True,True
+billing incorrect charged twice month,negative,negative,negative,True,True
+internet speed slow customer care not helping,negative,negative,negative,True,True
+installation completed time everything works perfectly,positive,positive,positive,True,True
+app crashes whenever try use login,negative,negative,negative,True,True
+very unhappy dashboard not worked since morning,negative,negative,negative,True,True
+like know more available plans,neutral,neutral,neutral,True,True
+delivery late package arrived damaged respond soon possible,negative,negative,negative,True,True
+installation completed time everything works perfectly,positive,positive,positive,True,True
+delivery smooth product quality excellent,positive,positive,positive,True,True
+installation completed time everything works perfectly appreciate quick response,positive,positive,positive,True,True
+refund process fast convenient appreciate quick response,positive,positive,positive,True,True
+confirm whether assigned,neutral,neutral,neutral,True,True
+product quality bad regret purchasing,negative,negative,negative,True,True
+support team resolved issue quickly thank,positive,positive,positive,True,True
+help finding invoice last order,neutral,neutral,neutral,True,True
+account keeps failing support not resolved issue,negative,negative,negative,True,True
+refund process fast convenient appreciate quick response,positive,positive,positive,True,True
+confirm whether assigned,neutral,neutral,neutral,True,True
+delivery late package arrived damaged,negative,negative,negative,True,True
+want cancel service quality poor unreliable,negative,negative,negative,True,True
+like new analytics easy use,positive,positive,positive,True,True
+share status service plan request,neutral,neutral,neutral,True,True
+refund process fast convenient,positive,positive,positive,True,True
+refund still pending experience frustrating,negative,negative,negative,True,True
+information payment process,neutral,neutral,neutral,True,True
+confirm whether assigned,neutral,neutral,neutral,True,True
+delivery late package arrived damaged respond soon possible,negative,negative,negative,True,True
+mobile app working well happy service,positive,positive,positive,True,True
+delivery late package arrived damaged respond soon possible,negative,negative,negative,True,True
+want cancel service quality poor unreliable,negative,negative,negative,True,True
+billing incorrect charged twice month,negative,negative,negative,True,True
+checking there any scheduled maintenance today respond soon possible,neutral,neutral,neutral,True,True
+satisfied plan recommend others appreciate quick response,positive,positive,positive,True,True
+refund process fast convenient,positive,positive,positive,True,True
+dashboard keeps failing support not resolved issue,negative,negative,negative,True,True
+help finding invoice last order,neutral,neutral,neutral,True,True
+service plan keeps failing support not resolved issue,negative,negative,negative,True,True
+help finding invoice last order,neutral,neutral,neutral,True,True
+installation completed time everything works perfectly,positive,positive,positive,True,True
+provide steps activate profile update,neutral,neutral,neutral,True,True
+want understand warranty terms product,neutral,neutral,neutral,True,True
+app crashes whenever try use login,negative,negative,negative,True,True
+internet speed slow customer care not helping,negative,negative,negative,True,True
+checking there any scheduled maintenance today,neutral,neutral,neutral,True,True
+satisfied plan recommend others,positive,positive,positive,True,True
+like new payment easy use,positive,positive,positive,True,True
+raised multiple tickets nobody fixed problem,negative,negative,negative,True,True
+information payment process,neutral,neutral,neutral,True,True
+like new profile update easy use appreciate quick response,positive,positive,positive,True,True
+refund process fast convenient,positive,positive,positive,True,True
+checking there any scheduled maintenance today,neutral,neutral,neutral,True,True
+want cancel service quality poor unreliable,negative,negative,negative,True,True
+satisfied plan recommend others,positive,positive,positive,True,True
+someone explain difference between plans,neutral,neutral,neutral,True,True
+tell how update account details,neutral,neutral,neutral,True,True
+help finding invoice last order,neutral,neutral,neutral,True,True
+refund process fast convenient,positive,positive,positive,True,True
+great service clear communication support team,positive,positive,positive,True,True
+delivery smooth product quality excellent appreciate quick response,positive,positive,positive,True,True
+information payment process respond soon possible,neutral,neutral,neutral,True,True
+delivery smooth product quality excellent,positive,positive,positive,True,True
+tell how update account details,neutral,neutral,neutral,True,True
+like know more available plans,neutral,neutral,neutral,True,True
+share status subscription request respond soon possible,neutral,neutral,neutral,True,True
+like know more available plans respond soon possible,neutral,neutral,neutral,True,True
+internet speed slow customer care not helping,negative,negative,negative,True,True
+delivery smooth product quality excellent,positive,positive,positive,True,True
+share status service plan request,neutral,neutral,neutral,True,True
+refund still pending experience frustrating,negative,negative,negative,True,True
+information payment process,neutral,neutral,neutral,True,True
+satisfied plan recommend others,positive,positive,positive,True,True
+installation completed time everything works perfectly,positive,positive,positive,True,True
+response team helpful professional,positive,positive,positive,True,True
+checking there any scheduled maintenance today,neutral,neutral,neutral,True,True
+delivery late package arrived damaged,negative,negative,negative,True,True
+refund still pending experience frustrating,negative,negative,negative,True,True
+want cancel service quality poor unreliable,negative,negative,negative,True,True
+refund process fast convenient,positive,positive,positive,True,True
+confirm whether assigned,neutral,neutral,neutral,True,True
+mobile app working well happy service,positive,positive,positive,True,True
+tell how update account details,neutral,neutral,neutral,True,True
+mobile app keeps failing support not resolved issue respond soon possible,negative,negative,negative,True,True
+satisfied plan recommend others,positive,positive,positive,True,True
+help finding invoice last order,neutral,neutral,neutral,True,True
+product quality bad regret purchasing,negative,negative,negative,True,True
+refund process fast convenient,positive,positive,positive,True,True
+great service clear communication support team,positive,positive,positive,True,True
+confirm whether assigned,neutral,neutral,neutral,True,True
+billing incorrect charged twice month,negative,negative,negative,True,True
+subscription working well happy service,positive,positive,positive,True,True
+information payment process,neutral,neutral,neutral,True,True
+satisfied plan recommend others,positive,positive,positive,True,True
+delivery smooth product quality excellent appreciate quick response,positive,positive,positive,True,True
+account working well happy service,positive,positive,positive,True,True
+want cancel service quality poor unreliable,negative,negative,negative,True,True
+like new login easy use,positive,positive,positive,True,True
+dashboard keeps failing support not resolved issue,negative,negative,negative,True,True
+product quality bad regret purchasing,negative,negative,negative,True,True
+refund process fast convenient,positive,positive,positive,True,True
+router working well happy service appreciate quick response,positive,positive,positive,True,True
+like know more available plans,neutral,neutral,neutral,True,True
+order working well happy service appreciate quick response,positive,positive,positive,True,True
+confirm whether assigned,neutral,neutral,neutral,True,True
+want understand warranty terms product respond soon possible,neutral,neutral,neutral,True,True
+router keeps failing support not resolved issue,negative,negative,negative,True,True
+refund process fast convenient appreciate quick response,positive,positive,positive,True,True
+support team resolved issue quickly thank,positive,positive,positive,True,True
+want cancel service quality poor unreliable,negative,negative,negative,True,True
+satisfied plan recommend others,positive,positive,positive,True,True
+help finding invoice last order respond soon possible,neutral,neutral,neutral,True,True
+someone explain difference between plans,neutral,neutral,neutral,True,True
+delivery late package arrived damaged,negative,negative,negative,True,True
+help finding invoice last order respond soon possible,neutral,neutral,neutral,True,True
+product quality bad regret purchasing,negative,negative,negative,True,True
+refund process fast convenient,positive,positive,positive,True,True
+subscription keeps failing support not resolved issue,negative,negative,negative,True,True
+provide steps activate login,neutral,neutral,neutral,True,True
+billing incorrect charged twice month,negative,negative,negative,True,True
+like new profile update easy use,positive,positive,positive,True,True
+very unhappy order not worked since morning,negative,negative,negative,True,True
+want understand warranty terms product,neutral,neutral,neutral,True,True
+very unhappy account not worked since last week,negative,negative,negative,True,True
+insurance policy working well happy service,positive,positive,positive,True,True
+share status mobile app request,neutral,neutral,neutral,True,True
+very unhappy service plan not worked since morning,negative,negative,negative,True,True
+internet speed slow customer care not helping,negative,negative,negative,True,True
+billing incorrect charged twice month,negative,negative,negative,True,True
+share status service plan request,neutral,neutral,neutral,True,True
+delivery late package arrived damaged,negative,negative,negative,True,True
+want cancel service quality poor unreliable respond soon possible,negative,negative,negative,True,True
+tell how update account details,neutral,neutral,neutral,True,True
+want understand warranty terms product,neutral,neutral,neutral,True,True
+raised multiple tickets nobody fixed problem,negative,negative,negative,True,True
+like new tracking easy use,positive,positive,positive,True,True
+internet speed slow customer care not helping,negative,negative,negative,True,True
+response team helpful professional appreciate quick response,positive,positive,positive,True,True
+refund process fast convenient,positive,positive,positive,True,True
+refund process fast convenient appreciate quick response,positive,positive,positive,True,True
+product quality bad regret purchasing,negative,negative,negative,True,True
+installation completed time everything works perfectly,positive,positive,positive,True,True
+share status account request,neutral,neutral,neutral,True,True
+great service clear communication support team,positive,positive,positive,True,True
+refund still pending experience frustrating,negative,negative,negative,True,True
+raised multiple tickets nobody fixed problem,negative,negative,negative,True,True
+help finding invoice last order,neutral,neutral,neutral,True,True
+refund still pending experience frustrating,negative,negative,negative,True,True
+want cancel service quality poor unreliable respond soon possible,negative,negative,negative,True,True
+share status insurance policy request,neutral,neutral,neutral,True,True
+very unhappy order not worked since last week,negative,negative,negative,True,True
+want understand warranty terms product,neutral,neutral,neutral,True,True
+service plan keeps failing support not resolved issue,negative,negative,negative,True,True
+like new report download easy use,positive,positive,positive,True,True
+app experience smooth reliable,positive,positive,positive,True,True
+raised multiple tickets nobody fixed problem respond soon possible,negative,negative,negative,True,True
+subscription working well happy service,positive,positive,positive,True,True
+tell how update account details,neutral,neutral,neutral,True,True
+router working well happy service,positive,positive,positive,True,True
+confirm whether assigned respond soon possible,neutral,neutral,neutral,True,True
+checking there any scheduled maintenance today,neutral,neutral,neutral,True,True
+confirm whether assigned,neutral,neutral,neutral,True,True
+installation completed time everything works perfectly,positive,positive,positive,True,True
+response team helpful professional,positive,positive,positive,True,True
+account working well happy service,positive,positive,positive,True,True
+tell how update account details,neutral,neutral,neutral,True,True
+information payment process,neutral,neutral,neutral,True,True
+support team resolved issue quickly thank,positive,positive,positive,True,True
+want understand warranty terms product respond soon possible,neutral,neutral,neutral,True,True
+help finding invoice last order,neutral,neutral,neutral,True,True
+dashboard working well happy service,positive,positive,positive,True,True
+want understand warranty terms product,neutral,neutral,neutral,True,True
+billing incorrect charged twice month,negative,negative,negative,True,True
+checking there any scheduled maintenance today,neutral,neutral,neutral,True,True
+tell how update account details respond soon possible,neutral,neutral,neutral,True,True
+very unhappy account not worked since yesterday,negative,negative,negative,True,True
+internet speed slow customer care not helping,negative,negative,negative,True,True
+tell how update account details,neutral,neutral,neutral,True,True
+provide steps activate report download,neutral,neutral,neutral,True,True
+delivery smooth product quality excellent,positive,positive,positive,True,True
+very unhappy account not worked since last week respond soon possible,negative,negative,negative,True,True
+provide steps activate profile update,neutral,neutral,neutral,True,True
+checking there any scheduled maintenance today,neutral,neutral,neutral,True,True
+product quality bad regret purchasing,negative,negative,negative,True,True
+someone explain difference between plans respond soon possible,neutral,neutral,neutral,True,True
+provide steps activate notifications,neutral,neutral,neutral,True,True
+refund still pending experience frustrating respond soon possible,negative,negative,negative,True,True
+great service clear communication support team,positive,positive,positive,True,True
+app crashes whenever try use video call respond soon possible,negative,negative,negative,True,True
+provide steps activate notifications,neutral,neutral,neutral,True,True
